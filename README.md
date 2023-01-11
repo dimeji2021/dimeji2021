@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kehinde Aregbesola
-- 👀 I’m interested in Data Science and Cyber-Security
-- 🌱 I’m currently learning C# programming language
+- 👀 I’m interested in software development, software architecture and design, Data Science and Cyber-Security
+- 🌱 I’m currently a .NET Software Engineer
 - 💞️ I’m looking to collaborate on Programming projects
 - 📫 You can reach me on adedimeji88@yahoo.com
 
